@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c71b83c4-850d-4616-89a2-a00f8b8aa1a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZGfkf9S5szIqio2O4veJfOKiVL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Desktop\EA\pruebaMinimo1\backend" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c71b83c4-850d-4616-89a2-a00f8b8aa1a4" name="Default Changelist" comment="" />
+      <created>1584470495551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584470495551</updated>
+      <workItem from="1584470499250" duration="4313000" />
+      <workItem from="1584644460897" duration="1517000" />
+      <workItem from="1584964335454" duration="35000" />
+      <workItem from="1585311123757" duration="15426000" />
+      <workItem from="1585563290306" duration="8685000" />
+      <workItem from="1585641390150" duration="16135000" />
+      <workItem from="1585751160862" duration="606000" />
+      <workItem from="1585816153097" duration="266000" />
+      <workItem from="1586255832149" duration="2437000" />
+      <workItem from="1586359762222" duration="12318000" />
+      <workItem from="1586427331347" duration="668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="26" key="#Inspections" timestamp="1585339765752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="26" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1585339765752" />
+    <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585642064885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585642064885" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586377076056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586377076056" />
+    <state width="639" height="181" key="GridCell.Tab.0.bottom" timestamp="1586387677108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="639" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586387677108" />
+    <state width="639" height="181" key="GridCell.Tab.0.center" timestamp="1586387677107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="639" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586387677107" />
+    <state width="639" height="181" key="GridCell.Tab.0.left" timestamp="1586387677107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="639" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586387677107" />
+    <state width="639" height="181" key="GridCell.Tab.0.right" timestamp="1586387677108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="639" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586387677108" />
+    <state x="52" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584964354512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="52" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584964354512" />
+    <state x="70" y="177" key="new project wizard" timestamp="1585565856504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="70" y="177" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585565856504" />
+  </component>
+</project>
