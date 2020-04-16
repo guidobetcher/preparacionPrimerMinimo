@@ -29,21 +29,21 @@ async function addStudentToSubject(req: Request,res:Response) {
             return res.status(404).send({message: 'Subject not found'})
         } else {
             await Subject.updateOne({_id: subjectId}, {$addToSet: {students: studentId}})
-        };
+        }
     }
     return res.status(200).send({message: 'Student added succesfully'});
 }
 
 async function getDetailsSubj(req:Request,res:Response){
     console.log("GET DETAILS SUBJECT");
-    const idSubj = req.query.id || '';
-    Subject.findById(idSubj, (err,subject)=>{
-        if (err)
-        {
-            res.status(404);
-        }
-        res.status(200).json(subject);
-    });
+    let subjectId = req.params.subjectId;
+    console.log("OF THIS SUBJECT:" + subjectId);
+    let subject = await Subject.findOne({_id: subjectId});
+    if (subject) {
+        res.status(200).json(subject)
+    } else {
+        res.status(404).send({message: 'Subject not found'})
+    }
 }
 
 async function getAllSubjects(req:Request,res:Response) {

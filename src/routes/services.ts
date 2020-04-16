@@ -17,5 +17,6 @@ router.post('/subjects/:subject',subjectController.addStudentToSubject);
  */
 router.get('/students/:student', studentController.getDetailStud); //Get the details of a certain student
 router.post('/students',studentController.addStudent); //Add a student to the DB
+router.get('/students',studentController.getStudents); //Get all the students
 
 export default router;
